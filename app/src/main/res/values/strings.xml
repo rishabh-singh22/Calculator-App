@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="textview">TextView</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="division">/</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="result">Result</string>
+</resources>
