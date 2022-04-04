@@ -7,4 +7,6 @@
     <string name="division">/</string>
     <string name="enter_second_number">Enter Second Number</string>
     <string name="result">Result</string>
+    <string name="all_right_reserved">All Right Reserved</string>
+    <string name="all_right_are_reserved">All right are reserved</string>
 </resources>
